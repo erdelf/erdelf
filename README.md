@@ -7,6 +7,10 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=erdelf&theme=radical&mode=weekly" />
 </a>
 
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
+
 ---
 
 ### :zap: Recent Activity
