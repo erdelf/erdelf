@@ -7,6 +7,9 @@
   <img height=200 align="center" src="https://streak-stats.demolab.com?user=erdelf&theme=radical&mode=weekly" />
 </a>
 
+---
+
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🚀 Published release [0.0.0.179](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.179) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 2. 🎉 Merged PR [#679](https://github.com/ffxivcode/AutoDuty/pull/679) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
