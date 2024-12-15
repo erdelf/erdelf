@@ -478,7 +478,7 @@ Huh.. is this a framerate dependent thing by any chance..</div>
                                 <div class="title">
                                     <span class="prefix">Super</span>
                                     developer
-                                    <span class="gh">ranked 482k out of 151m users</span>
+                                    <span class="gh">ranked 482k out of 150m users</span>
                                 </div>
                                 <div class="text">Published 64 public repositories</div>
                             </div>
@@ -530,7 +530,7 @@ Huh.. is this a framerate dependent thing by any chance..</div>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 15 Dec 2024, 05:36:22 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 06:03:01 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
