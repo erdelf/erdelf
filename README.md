@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#700](https://github.com/ffxivcode/AutoDuty/issues/700#issuecomment-2572236735) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🔒 Closed issue [#700](https://github.com/ffxivcode/AutoDuty/issues/700) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🔒 Closed issue [#699](https://github.com/ffxivcode/AutoDuty/issues/699) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🗣 Commented on [#699](https://github.com/ffxivcode/AutoDuty/issues/699#issuecomment-2572236308) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🗣 Commented on [#741](https://github.com/ffxivcode/AutoDuty/issues/741#issuecomment-2572235522) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#954](https://github.com/rimpy-custom/communityRules/issues/954#issuecomment-2572340130) in [rimpy-custom/communityRules](https://github.com/rimpy-custom/communityRules)
+2. 🗣 Commented on [#700](https://github.com/ffxivcode/AutoDuty/issues/700#issuecomment-2572236735) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🔒 Closed issue [#700](https://github.com/ffxivcode/AutoDuty/issues/700) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🔒 Closed issue [#699](https://github.com/ffxivcode/AutoDuty/issues/699) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#699](https://github.com/ffxivcode/AutoDuty/issues/699#issuecomment-2572236308) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
