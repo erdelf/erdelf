@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#292](https://github.com/PunishXIV/WrathCombo/issues/292) in [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo)
-2. 🗣 Commented on [#763](https://github.com/ffxivcode/AutoDuty/issues/763#issuecomment-2601215600) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🚀 Published release [0.0.0.185](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.185) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#764](https://github.com/ffxivcode/AutoDuty/pull/764) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 💪 Opened PR [#764](https://github.com/ffxivcode/AutoDuty/pull/764) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🔒 Closed issue [#292](https://github.com/PunishXIV/WrathCombo/issues/292) in [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo)
+2. ❗ Opened issue [#292](https://github.com/PunishXIV/WrathCombo/issues/292) in [PunishXIV/WrathCombo](https://github.com/PunishXIV/WrathCombo)
+3. 🗣 Commented on [#763](https://github.com/ffxivcode/AutoDuty/issues/763#issuecomment-2601215600) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🚀 Published release [0.0.0.185](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.185) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🎉 Merged PR [#764](https://github.com/ffxivcode/AutoDuty/pull/764) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
