@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10](https://github.com/FantasticalMouthpiece/XivVoices/pull/10) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
-2. 🎉 Merged PR [#777](https://github.com/ffxivcode/AutoDuty/pull/777) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 💪 Opened PR [#777](https://github.com/ffxivcode/AutoDuty/pull/777) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#776](https://github.com/ffxivcode/AutoDuty/pull/776) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 💪 Opened PR [#776](https://github.com/ffxivcode/AutoDuty/pull/776) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#17](https://github.com/erdelf/MinifyEverything/issues/17#issuecomment-2620738915) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
+2. 💪 Opened PR [#10](https://github.com/FantasticalMouthpiece/XivVoices/pull/10) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
+3. 🎉 Merged PR [#777](https://github.com/ffxivcode/AutoDuty/pull/777) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#777](https://github.com/ffxivcode/AutoDuty/pull/777) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🎉 Merged PR [#776](https://github.com/ffxivcode/AutoDuty/pull/776) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
