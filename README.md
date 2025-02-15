@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#791](https://github.com/ffxivcode/AutoDuty/pull/791) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#791](https://github.com/ffxivcode/AutoDuty/pull/791) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#788](https://github.com/ffxivcode/AutoDuty/issues/788#issuecomment-2652312168) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#786](https://github.com/ffxivcode/AutoDuty/pull/786) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🚀 Published release [0.0.0.188](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.188) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🔒 Closed issue [#4](https://github.com/Vanilla-Expanded/VanillaFurnitureExpanded-Security/issues/4) in [Vanilla-Expanded/VanillaFurnitureExpanded-Security](https://github.com/Vanilla-Expanded/VanillaFurnitureExpanded-Security)
+2. 🔒 Closed issue [#112](https://github.com/Vanilla-Expanded/VanillaExpandedFramework/issues/112) in [Vanilla-Expanded/VanillaExpandedFramework](https://github.com/Vanilla-Expanded/VanillaExpandedFramework)
+3. 🎉 Merged PR [#791](https://github.com/ffxivcode/AutoDuty/pull/791) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#791](https://github.com/ffxivcode/AutoDuty/pull/791) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#788](https://github.com/ffxivcode/AutoDuty/issues/788#issuecomment-2652312168) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
