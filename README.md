@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#793](https://github.com/ffxivcode/AutoDuty/issues/793#issuecomment-2666321727) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🗣 Commented on [#792](https://github.com/ffxivcode/AutoDuty/issues/792#issuecomment-2665606632) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🔒 Closed issue [#788](https://github.com/ffxivcode/AutoDuty/issues/788) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🗣 Commented on [#794](https://github.com/ffxivcode/AutoDuty/issues/794#issuecomment-2665603722) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🗣 Commented on [#793](https://github.com/ffxivcode/AutoDuty/issues/793#issuecomment-2665600885) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#2](https://github.com/erdelf/TitleRouletteFork/pull/2) in [erdelf/TitleRouletteFork](https://github.com/erdelf/TitleRouletteFork)
+2. 🗣 Commented on [#793](https://github.com/ffxivcode/AutoDuty/issues/793#issuecomment-2666321727) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#792](https://github.com/ffxivcode/AutoDuty/issues/792#issuecomment-2665606632) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🔒 Closed issue [#788](https://github.com/ffxivcode/AutoDuty/issues/788) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#794](https://github.com/ffxivcode/AutoDuty/issues/794#issuecomment-2665603722) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
