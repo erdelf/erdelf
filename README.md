@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#608](https://github.com/ffxivcode/AutoDuty/issues/608) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🗣 Commented on [#485](https://github.com/ffxivcode/AutoDuty/issues/485#issuecomment-2701984726) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🔒 Closed issue [#485](https://github.com/ffxivcode/AutoDuty/issues/485) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🔒 Closed issue [#484](https://github.com/ffxivcode/AutoDuty/issues/484) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🔒 Closed issue [#476](https://github.com/ffxivcode/AutoDuty/issues/476) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🔒 Closed issue [#632](https://github.com/ffxivcode/AutoDuty/issues/632) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🗣 Commented on [#621](https://github.com/ffxivcode/AutoDuty/issues/621#issuecomment-2702060660) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🔒 Closed issue [#621](https://github.com/ffxivcode/AutoDuty/issues/621) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🔒 Closed issue [#619](https://github.com/ffxivcode/AutoDuty/issues/619) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#609](https://github.com/ffxivcode/AutoDuty/issues/609#issuecomment-2701998197) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
