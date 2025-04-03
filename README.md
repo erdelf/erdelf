@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2773040858) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2773036434) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2772807267) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#25](https://github.com/FantasticalMouthpiece/XivVoices/pull/25) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
-5. 🗣 Commented on [#886](https://github.com/ffxivcode/AutoDuty/issues/886#issuecomment-2769308706) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#871](https://github.com/ffxivcode/AutoDuty/issues/871#issuecomment-2773452302) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2773040858) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2773036434) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2772807267) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#25](https://github.com/FantasticalMouthpiece/XivVoices/pull/25) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
 <!--END_SECTION:activity-->
 
 <!--
