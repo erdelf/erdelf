@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#25](https://github.com/FantasticalMouthpiece/XivVoices/pull/25) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
-2. 🗣 Commented on [#886](https://github.com/ffxivcode/AutoDuty/issues/886#issuecomment-2769308706) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🎉 Merged PR [#884](https://github.com/ffxivcode/AutoDuty/pull/884) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#884](https://github.com/ffxivcode/AutoDuty/pull/884) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🎉 Merged PR [#883](https://github.com/ffxivcode/AutoDuty/pull/883) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#887](https://github.com/ffxivcode/AutoDuty/issues/887#issuecomment-2772807267) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 💪 Opened PR [#25](https://github.com/FantasticalMouthpiece/XivVoices/pull/25) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
+3. 🗣 Commented on [#886](https://github.com/ffxivcode/AutoDuty/issues/886#issuecomment-2769308706) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🎉 Merged PR [#884](https://github.com/ffxivcode/AutoDuty/pull/884) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#884](https://github.com/ffxivcode/AutoDuty/pull/884) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
