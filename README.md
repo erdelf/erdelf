@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#895](https://github.com/ffxivcode/AutoDuty/issues/895#issuecomment-2780310944) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#100](https://github.com/NightmareXIV/ECommons/pull/100) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
-3. 🎉 Merged PR [#894](https://github.com/ffxivcode/AutoDuty/pull/894) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#894](https://github.com/ffxivcode/AutoDuty/pull/894) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🚀 Published release [0.0.0.203](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.203) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🎉 Merged PR [#896](https://github.com/ffxivcode/AutoDuty/pull/896) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 💪 Opened PR [#896](https://github.com/ffxivcode/AutoDuty/pull/896) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#895](https://github.com/ffxivcode/AutoDuty/issues/895#issuecomment-2780310944) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#100](https://github.com/NightmareXIV/ECommons/pull/100) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
+5. 🎉 Merged PR [#894](https://github.com/ffxivcode/AutoDuty/pull/894) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
