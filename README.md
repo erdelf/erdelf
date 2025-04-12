@@ -15,11 +15,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/erdelf/MinifyEverything/pull/20#issuecomment-2795986160) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
-2. 🗣 Commented on [#899](https://github.com/ffxivcode/AutoDuty/issues/899#issuecomment-2794453542) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🔒 Closed issue [#899](https://github.com/ffxivcode/AutoDuty/issues/899) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🗣 Commented on [#899](https://github.com/ffxivcode/AutoDuty/issues/899#issuecomment-2794369010) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🎉 Merged PR [#896](https://github.com/ffxivcode/AutoDuty/pull/896) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🎉 Merged PR [#900](https://github.com/ffxivcode/AutoDuty/pull/900) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 💪 Opened PR [#900](https://github.com/ffxivcode/AutoDuty/pull/900) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#20](https://github.com/erdelf/MinifyEverything/pull/20#issuecomment-2795986160) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
+4. 🗣 Commented on [#899](https://github.com/ffxivcode/AutoDuty/issues/899#issuecomment-2794453542) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🔒 Closed issue [#899](https://github.com/ffxivcode/AutoDuty/issues/899) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
