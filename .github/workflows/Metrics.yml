@@ -56,7 +56,7 @@ jobs:
           plugin_lines_sections: base
           plugin_traffic: yes
       - name: Generate Forked Profile Metrics
-        uses: stalomeow/metrics@edcae0f874d69e509d25ddd5e750a2f41cd54e10
+        uses: gh-metrics/metrics
         with:
           filename: github-metrics-achievements.svg
           token: ${{ secrets.GITHUB }}
