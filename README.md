@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1010](https://github.com/ffxivcode/AutoDuty/issues/1010#issuecomment-2992389683) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🔒 Closed issue [#1010](https://github.com/ffxivcode/AutoDuty/issues/1010) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🚀 Published release [0.0.0.221](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.221) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#1002](https://github.com/ffxivcode/AutoDuty/pull/1002) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🗣 Commented on [#1004](https://github.com/ffxivcode/AutoDuty/issues/1004#issuecomment-2977358301) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. ❌ Closed PR [#10](https://github.com/FantasticalMouthpiece/XivVoices/pull/10) in [FantasticalMouthpiece/XivVoices](https://github.com/FantasticalMouthpiece/XivVoices)
+2. 🗣 Commented on [#1010](https://github.com/ffxivcode/AutoDuty/issues/1010#issuecomment-2992389683) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🔒 Closed issue [#1010](https://github.com/ffxivcode/AutoDuty/issues/1010) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🚀 Published release [0.0.0.221](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.221) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🎉 Merged PR [#1002](https://github.com/ffxivcode/AutoDuty/pull/1002) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
