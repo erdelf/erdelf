@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1031](https://github.com/ffxivcode/AutoDuty/issues/1031) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🗣 Commented on [#1031](https://github.com/ffxivcode/AutoDuty/issues/1031#issuecomment-3045396784) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#1008](https://github.com/ffxivcode/AutoDuty/issues/1008#issuecomment-3043400329) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🔒 Closed issue [#1008](https://github.com/ffxivcode/AutoDuty/issues/1008) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🗣 Commented on [#1007](https://github.com/ffxivcode/AutoDuty/issues/1007#issuecomment-3043400128) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#1032](https://github.com/ffxivcode/AutoDuty/issues/1032#issuecomment-3046131379) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🔒 Closed issue [#1031](https://github.com/ffxivcode/AutoDuty/issues/1031) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#1031](https://github.com/ffxivcode/AutoDuty/issues/1031#issuecomment-3045396784) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🗣 Commented on [#1008](https://github.com/ffxivcode/AutoDuty/issues/1008#issuecomment-3043400329) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🔒 Closed issue [#1008](https://github.com/ffxivcode/AutoDuty/issues/1008) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
