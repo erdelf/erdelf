@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1037](https://github.com/ffxivcode/AutoDuty/pull/1037) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#1037](https://github.com/ffxivcode/AutoDuty/pull/1037) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🎉 Merged PR [#1036](https://github.com/ffxivcode/AutoDuty/pull/1036) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#1035](https://github.com/ffxivcode/AutoDuty/pull/1035) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🚀 Published release [1.6.0](https://github.com/erdelf/AlienRaces/releases/tag/1.6.0) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
+1. 🚀 Published release [0.0.0.226](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.226) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🎉 Merged PR [#1037](https://github.com/ffxivcode/AutoDuty/pull/1037) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 💪 Opened PR [#1037](https://github.com/ffxivcode/AutoDuty/pull/1037) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🎉 Merged PR [#1036](https://github.com/ffxivcode/AutoDuty/pull/1036) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🎉 Merged PR [#1035](https://github.com/ffxivcode/AutoDuty/pull/1035) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
