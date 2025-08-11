@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1054](https://github.com/ffxivcode/AutoDuty/issues/1054#issuecomment-3173002141) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🔒 Closed issue [#1054](https://github.com/ffxivcode/AutoDuty/issues/1054) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#904](https://github.com/ffxivcode/AutoDuty/issues/904#issuecomment-3173002094) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🔒 Closed issue [#904](https://github.com/ffxivcode/AutoDuty/issues/904) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🎉 Merged PR [#1076](https://github.com/ffxivcode/AutoDuty/pull/1076) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 🗣 Commented on [#1006](https://github.com/ffxivcode/AutoDuty/issues/1006#issuecomment-3174201396) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🔒 Closed issue [#1006](https://github.com/ffxivcode/AutoDuty/issues/1006) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🎉 Merged PR [#1079](https://github.com/ffxivcode/AutoDuty/pull/1079) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#1079](https://github.com/ffxivcode/AutoDuty/pull/1079) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🎉 Merged PR [#1077](https://github.com/ffxivcode/AutoDuty/pull/1077) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
