@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#133](https://github.com/NightmareXIV/ECommons/pull/133) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
-2. 🎉 Merged PR [#1145](https://github.com/ffxivcode/AutoDuty/pull/1145) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 💪 Opened PR [#1145](https://github.com/ffxivcode/AutoDuty/pull/1145) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🎉 Merged PR [#1144](https://github.com/ffxivcode/AutoDuty/pull/1144) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 💪 Opened PR [#1144](https://github.com/ffxivcode/AutoDuty/pull/1144) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#670](https://github.com/awgil/ffxiv_bossmod/pull/670) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+2. 🗣 Commented on [#36](https://github.com/PunishXIV/Questionable/issues/36#issuecomment-3368963843) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+3. ❗ Opened issue [#51](https://github.com/PunishXIV/Questionable/issues/51) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+4. ❗ Opened issue [#50](https://github.com/PunishXIV/Questionable/issues/50) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+5. 💪 Opened PR [#133](https://github.com/NightmareXIV/ECommons/pull/133) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
 <!--END_SECTION:activity-->
 
 <!--
