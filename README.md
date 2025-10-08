@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#50](https://github.com/PunishXIV/Questionable/issues/50#issuecomment-3372256718) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
-2. 🔒 Closed issue [#50](https://github.com/PunishXIV/Questionable/issues/50) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
-3. 💪 Opened PR [#670](https://github.com/awgil/ffxiv_bossmod/pull/670) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-4. 🗣 Commented on [#36](https://github.com/PunishXIV/Questionable/issues/36#issuecomment-3368963843) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
-5. ❗ Opened issue [#51](https://github.com/PunishXIV/Questionable/issues/51) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+1. 🚀 Published release [0.0.0.245](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.245) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🎉 Merged PR [#1147](https://github.com/ffxivcode/AutoDuty/pull/1147) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 💪 Opened PR [#1147](https://github.com/ffxivcode/AutoDuty/pull/1147) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🎉 Merged PR [#1146](https://github.com/ffxivcode/AutoDuty/pull/1146) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#1146](https://github.com/ffxivcode/AutoDuty/pull/1146) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
