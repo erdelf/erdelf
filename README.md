@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1153](https://github.com/ffxivcode/AutoDuty/pull/1153) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#1153](https://github.com/ffxivcode/AutoDuty/pull/1153) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🎉 Merged PR [#1151](https://github.com/ffxivcode/AutoDuty/pull/1151) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#1151](https://github.com/ffxivcode/AutoDuty/pull/1151) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🎉 Merged PR [#1150](https://github.com/ffxivcode/AutoDuty/pull/1150) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#1153](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 💪 Opened PR [#1151](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 💪 Opened PR [#1150](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#1149](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#59](https://github.com/PunishXIV/Questionable/issues/59#issuecomment-3387916213) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
 <!--END_SECTION:activity-->
 
 <!--
