@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.250](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.250) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#1170](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 💪 Opened PR [#1169](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#673](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-5. 💪 Opened PR [#1168](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#74](undefined) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+2. 🚀 Published release [0.0.0.250](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.250) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 💪 Opened PR [#1170](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#1169](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#673](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
 <!--END_SECTION:activity-->
 
 <!--
