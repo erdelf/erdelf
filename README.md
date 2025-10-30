@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1179](https://github.com/ffxivcode/AutoDuty/issues/1179#issuecomment-3460480137) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🗣 Commented on [#1179](https://github.com/ffxivcode/AutoDuty/issues/1179#issuecomment-3460458457) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#156](https://github.com/Vanilla-Expanded/VanillaExpandedFramework/pull/156#issuecomment-3459567671) in [Vanilla-Expanded/VanillaExpandedFramework](https://github.com/Vanilla-Expanded/VanillaExpandedFramework)
-4. 🚀 Published release [0.0.0.252](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.252) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 💪 Opened PR [#1178](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#1181](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. 🗣 Commented on [#1179](https://github.com/ffxivcode/AutoDuty/issues/1179#issuecomment-3460480137) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🗣 Commented on [#1179](https://github.com/ffxivcode/AutoDuty/issues/1179#issuecomment-3460458457) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🗣 Commented on [#156](https://github.com/Vanilla-Expanded/VanillaExpandedFramework/pull/156#issuecomment-3459567671) in [Vanilla-Expanded/VanillaExpandedFramework](https://github.com/Vanilla-Expanded/VanillaExpandedFramework)
+5. 🚀 Published release [0.0.0.252](https://github.com/ffxivcode/AutoDuty/releases/tag/0.0.0.252) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
