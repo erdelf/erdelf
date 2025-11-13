@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1064](undefined) in [FFXIV-CombatReborn/RotationSolverReborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
-2. 🚀 Published release [0.0.0.256](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.256) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 💪 Opened PR [#13](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#12](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🗣 Commented on [#1195](https://github.com/ffxivcode/AutoDuty/pull/1195#issuecomment-3508490234) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+1. 💪 Opened PR [#15](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#14](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#1064](undefined) in [FFXIV-CombatReborn/RotationSolverReborn](https://github.com/FFXIV-CombatReborn/RotationSolverReborn)
+4. 🚀 Published release [0.0.0.256](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.256) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#13](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
