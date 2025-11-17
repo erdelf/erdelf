@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#1197](https://github.com/ffxivcode/AutoDuty/pull/1197#issuecomment-3538921923) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. ❌ Closed PR [#1197](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 💪 Opened PR [#29](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#27](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 💪 Opened PR [#31](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#30](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🗣 Commented on [#1197](https://github.com/ffxivcode/AutoDuty/pull/1197#issuecomment-3538921923) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. ❌ Closed PR [#1197](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 💪 Opened PR [#29](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
