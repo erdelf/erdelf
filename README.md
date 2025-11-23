@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.264](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.264) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#52](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🚀 Published release [0.0.0.263](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.263) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#51](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#50](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.265](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.265) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#54](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#53](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🚀 Published release [0.0.0.264](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.264) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#52](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
