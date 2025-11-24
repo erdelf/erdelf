@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1198](https://github.com/ffxivcode/AutoDuty/issues/1198#issuecomment-3568338871) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🔒 Closed issue [#1198](https://github.com/ffxivcode/AutoDuty/issues/1198) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#1198](https://github.com/ffxivcode/AutoDuty/issues/1198#issuecomment-3568306840) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🚀 Published release [0.0.0.265](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.265) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#54](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.266](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.266) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#59](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#58](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#57](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#56](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
