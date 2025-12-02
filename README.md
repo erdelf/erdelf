@@ -21,8 +21,8 @@
 1. 🗣 Commented on [#1199](https://github.com/ffxivcode/AutoDuty/issues/1199#issuecomment-3603541128) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 2. 🔒 Closed issue [#1199](https://github.com/ffxivcode/AutoDuty/issues/1199) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 3. 🚀 Published release [0.0.0.270](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.270) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#79](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#78](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. ❌ Merged PR [#79](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#79](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
