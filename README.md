@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#1202](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 💪 Opened PR [#1202](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🚀 Published release [0.0.0.273](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.273) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔒 Closed issue [#65](https://github.com/erdelf/AutoDuty/issues/65) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. ❌ Merged PR [#84](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. ❌ Merged PR [#89](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#89](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. ❌ Merged PR [#1202](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 💪 Opened PR [#1202](undefined) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🚀 Published release [0.0.0.273](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.273) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
