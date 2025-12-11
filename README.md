@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#690](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-2. 💪 Opened PR [#690](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-3. ❌ Merged PR [#96](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#96](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🚀 Published release [0.0.0.275](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.275) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 💪 Opened PR [#691](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+2. ❌ Merged PR [#690](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+3. 💪 Opened PR [#690](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+4. ❌ Merged PR [#96](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#96](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
