@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [Initial API 14 release](https://github.com/erdelf/InventorySearchBar/releases/tag/14.0.0.0) in [erdelf/InventorySearchBar](https://github.com/erdelf/InventorySearchBar)
-2. ❌ Merged PR [#691](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-3. ❌ Merged PR [#692](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-4. 💪 Opened PR [#692](undefined) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-5. ❌ Merged PR [#110](undefined) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+1. ❌ Merged PR [#123](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#123](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. ❌ Merged PR [#122](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#122](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. ❌ Merged PR [#121](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
