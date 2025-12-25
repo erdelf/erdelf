@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-2. ❌ Merged PR [#1](undefined) in [erdelf/InventorySearchBar](https://github.com/erdelf/InventorySearchBar)
-3. 💪 Opened PR [#1](undefined) in [erdelf/InventorySearchBar](https://github.com/erdelf/InventorySearchBar)
-4. 🚀 Published release [0.0.0.281](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.281) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. ❌ Merged PR [#124](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. ❌ Merged PR [#2](undefined) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+2. 💪 Opened PR [#2](undefined) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+3. ❌ Merged PR [#1](undefined) in [erdelf/InventorySearchBar](https://github.com/erdelf/InventorySearchBar)
+4. 💪 Opened PR [#1](undefined) in [erdelf/InventorySearchBar](https://github.com/erdelf/InventorySearchBar)
+5. 🚀 Published release [0.0.0.281](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.281) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
