@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#128](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#128](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. ❌ Merged PR [#4](undefined) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-4. ❌ Merged PR [#127](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#127](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🔒 Closed issue [#120](https://github.com/erdelf/AutoDuty/issues/120) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#120](https://github.com/erdelf/AutoDuty/issues/120#issuecomment-3693511366) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. ❌ Merged PR [#128](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#128](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. ❌ Merged PR [#4](undefined) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
 <!--END_SECTION:activity-->
 
 <!--
