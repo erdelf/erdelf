@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#138](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#138](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. ❌ Merged PR [#137](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#137](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🚀 Published release [0.0.0.284](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.284) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🔒 Closed issue [#139](https://github.com/erdelf/AutoDuty/issues/139) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#139](https://github.com/erdelf/AutoDuty/issues/139#issuecomment-3703188485) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. ❌ Merged PR [#140](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#140](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. ❌ Merged PR [#138](undefined) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
