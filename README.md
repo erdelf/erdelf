@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. ℹ️ Unlabeled issue [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206#issuecomment-3735196340) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🗣 Commented on [#148](https://github.com/erdelf/AutoDuty/pull/148#issuecomment-3734267721) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🗣 Commented on [#148](https://github.com/erdelf/AutoDuty/pull/148#issuecomment-3734051152) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🎉 Merged PR [#150](https://github.com/erdelf/AutoDuty/pull/150) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#150](https://github.com/erdelf/AutoDuty/pull/150) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. ℹ️ Labeled issue [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. ℹ️ Unlabeled issue [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+5. 🗣 Commented on [#1206](https://github.com/ffxivcode/AutoDuty/issues/1206#issuecomment-3735196340) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
