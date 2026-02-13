@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#195](https://github.com/erdelf/AutoDuty/pull/195) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#195](https://github.com/erdelf/AutoDuty/pull/195) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#193](https://github.com/erdelf/AutoDuty/issues/193#issuecomment-3871931762) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🗣 Commented on [#193](https://github.com/erdelf/AutoDuty/issues/193#issuecomment-3871931704) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🎉 Merged PR [#190](https://github.com/erdelf/AutoDuty/pull/190) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🗣 Commented on [#21](https://github.com/erdelf/MinifyEverything/pull/21#issuecomment-3895475386) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
+2. ❌ Closed PR [#21](https://github.com/erdelf/MinifyEverything/pull/21) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
+3. 🎉 Merged PR [#195](https://github.com/erdelf/AutoDuty/pull/195) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#195](https://github.com/erdelf/AutoDuty/pull/195) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#193](https://github.com/erdelf/AutoDuty/issues/193#issuecomment-3871931762) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
