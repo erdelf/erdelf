@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#197](https://github.com/erdelf/AutoDuty/pull/197) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#197](https://github.com/erdelf/AutoDuty/pull/197) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#21](https://github.com/erdelf/MinifyEverything/pull/21#issuecomment-3896562076) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
-4. 💪 Opened PR [#705](https://github.com/awgil/ffxiv_bossmod/pull/705) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-5. 🗣 Commented on [#21](https://github.com/erdelf/MinifyEverything/pull/21#issuecomment-3895475386) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
+1. 🎉 Merged PR [#200](https://github.com/erdelf/AutoDuty/pull/200) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#200](https://github.com/erdelf/AutoDuty/pull/200) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🎉 Merged PR [#197](https://github.com/erdelf/AutoDuty/pull/197) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#197](https://github.com/erdelf/AutoDuty/pull/197) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#21](https://github.com/erdelf/MinifyEverything/pull/21#issuecomment-3896562076) in [erdelf/MinifyEverything](https://github.com/erdelf/MinifyEverything)
 <!--END_SECTION:activity-->
 
 <!--
