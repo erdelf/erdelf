@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#205](https://github.com/erdelf/AutoDuty/pull/205) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#204](https://github.com/erdelf/AutoDuty/pull/204#issuecomment-3916963818) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 💪 Opened PR [#204](https://github.com/erdelf/AutoDuty/pull/204) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🎉 Merged PR [#203](https://github.com/erdelf/AutoDuty/pull/203) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#203](https://github.com/erdelf/AutoDuty/pull/203) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🗣 Commented on [#151](https://github.com/PunishXIV/AutoRetainer/issues/151#issuecomment-3927141726) in [PunishXIV/AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
+2. 🗣 Commented on [#151](https://github.com/PunishXIV/AutoRetainer/issues/151#issuecomment-3927104718) in [PunishXIV/AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
+3. 💪 Opened PR [#205](https://github.com/erdelf/AutoDuty/pull/205) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🗣 Commented on [#204](https://github.com/erdelf/AutoDuty/pull/204#issuecomment-3916963818) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#204](https://github.com/erdelf/AutoDuty/pull/204) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
