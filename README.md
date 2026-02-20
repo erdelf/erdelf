@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#205](https://github.com/erdelf/AutoDuty/pull/205) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🎉 Merged PR [#204](https://github.com/erdelf/AutoDuty/pull/204) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🎉 Merged PR [#707](https://github.com/awgil/ffxiv_bossmod/pull/707) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-4. 🗣 Commented on [#151](https://github.com/PunishXIV/AutoRetainer/issues/151#issuecomment-3927141726) in [PunishXIV/AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
-5. 🗣 Commented on [#151](https://github.com/PunishXIV/AutoRetainer/issues/151#issuecomment-3927104718) in [PunishXIV/AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
+1. 🚀 Published release [0.0.0.291](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.291) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#205](https://github.com/erdelf/AutoDuty/pull/205) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🎉 Merged PR [#204](https://github.com/erdelf/AutoDuty/pull/204) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🎉 Merged PR [#707](https://github.com/awgil/ffxiv_bossmod/pull/707) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+5. 🗣 Commented on [#151](https://github.com/PunishXIV/AutoRetainer/issues/151#issuecomment-3927141726) in [PunishXIV/AutoRetainer](https://github.com/PunishXIV/AutoRetainer)
 <!--END_SECTION:activity-->
 
 <!--
