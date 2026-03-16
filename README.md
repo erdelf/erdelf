@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#221](https://github.com/erdelf/AutoDuty/pull/221) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#221](https://github.com/erdelf/AutoDuty/pull/221) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#202](https://github.com/erdelf/AutoDuty/pull/202#issuecomment-4020430289) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🗣 Commented on [#117](https://github.com/erdelf/AlienRaces/issues/117#issuecomment-4011649642) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-5. 🔒 Closed issue [#117](https://github.com/erdelf/AlienRaces/issues/117) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
+1. 🚀 Published release [0.0.0.295](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.295) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#224](https://github.com/erdelf/AutoDuty/pull/224) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🗣 Commented on [#223](https://github.com/erdelf/AutoDuty/pull/223#issuecomment-4064453873) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#224](https://github.com/erdelf/AutoDuty/pull/224) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🎉 Merged PR [#167](https://github.com/NightmareXIV/ECommons/pull/167) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
 <!--END_SECTION:activity-->
 
 <!--
