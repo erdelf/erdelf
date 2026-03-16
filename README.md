@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.295](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.295) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🎉 Merged PR [#224](https://github.com/erdelf/AutoDuty/pull/224) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#223](https://github.com/erdelf/AutoDuty/pull/223#issuecomment-4064453873) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#224](https://github.com/erdelf/AutoDuty/pull/224) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🎉 Merged PR [#167](https://github.com/NightmareXIV/ECommons/pull/167) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
+1. 🎉 Merged PR [#228](https://github.com/erdelf/AutoDuty/pull/228) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#228](https://github.com/erdelf/AutoDuty/pull/228) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🎉 Merged PR [#227](https://github.com/erdelf/AutoDuty/pull/227) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#227](https://github.com/erdelf/AutoDuty/pull/227) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🚀 Published release [0.0.0.295](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.295) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
