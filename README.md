@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/NightmareXIV/ECommons.IPC/pull/5#issuecomment-4229337733) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-2. 💪 Opened PR [#5](https://github.com/NightmareXIV/ECommons.IPC/pull/5) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-3. 🗣 Commented on [#267](https://github.com/erdelf/AutoDuty/pull/267#issuecomment-4228754031) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 💪 Opened PR [#717](https://github.com/awgil/ffxiv_bossmod/pull/717) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
-5. 🗣 Commented on [#265](https://github.com/erdelf/AutoDuty/issues/265#issuecomment-4221357269) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 💪 Opened PR [#268](https://github.com/erdelf/AutoDuty/pull/268) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#5](https://github.com/NightmareXIV/ECommons.IPC/pull/5#issuecomment-4229337733) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+3. 💪 Opened PR [#5](https://github.com/NightmareXIV/ECommons.IPC/pull/5) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+4. 🗣 Commented on [#267](https://github.com/erdelf/AutoDuty/pull/267#issuecomment-4228754031) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#717](https://github.com/awgil/ffxiv_bossmod/pull/717) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
 <!--END_SECTION:activity-->
 
 <!--
