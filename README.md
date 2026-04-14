@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4245631504) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4241547964) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4240150490) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔒 Closed issue [#270](https://github.com/erdelf/AutoDuty/issues/270) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4240011534) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🎉 Merged PR [#268](https://github.com/erdelf/AutoDuty/pull/268) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#5](https://github.com/NightmareXIV/ECommons.IPC/pull/5) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+3. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4245631504) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4241547964) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#270](https://github.com/erdelf/AutoDuty/issues/270#issuecomment-4240150490) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
