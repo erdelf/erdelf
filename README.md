@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#292](https://github.com/erdelf/AutoDuty/pull/292#issuecomment-4332894372) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#292](https://github.com/erdelf/AutoDuty/pull/292#issuecomment-4332754743) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🎉 Merged PR [#291](https://github.com/erdelf/AutoDuty/pull/291) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🗣 Commented on [#285](https://github.com/erdelf/AutoDuty/issues/285#issuecomment-4330838299) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🚀 Published release [0.0.0.301](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.301) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.303](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.303) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🚀 Published release [0.0.0.302](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.302) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#723](https://github.com/awgil/ffxiv_bossmod/pull/723) in [awgil/ffxiv_bossmod](https://github.com/awgil/ffxiv_bossmod)
+4. 🎉 Merged PR [#295](https://github.com/erdelf/AutoDuty/pull/295) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#295](https://github.com/erdelf/AutoDuty/pull/295) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
