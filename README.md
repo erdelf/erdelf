@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.19](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.19) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-2. 🚀 Published release [0.0.0.18](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.18) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-3. 🚀 Published release [0.0.0.17](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.17) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-4. 🗣 Commented on [#2](https://github.com/erdelf/ffxiv_FCTracker/pull/2#issuecomment-4783527592) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-5. 💪 Opened PR [#362](https://github.com/erdelf/AutoDuty/pull/362) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. ❌ Closed PR [#119](https://github.com/erdelf/AlienRaces/pull/119) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
+2. 🚀 Published release [0.0.0.19](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.19) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+3. 🚀 Published release [0.0.0.18](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.18) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+4. 🚀 Published release [0.0.0.17](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.17) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+5. 🗣 Commented on [#2](https://github.com/erdelf/ffxiv_FCTracker/pull/2#issuecomment-4783527592) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
 <!--END_SECTION:activity-->
 
 <!--
