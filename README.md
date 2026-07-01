@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216#issuecomment-4856788213) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-2. 🔒 Closed issue [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-3. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4856781927) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. ℹ️ Labeled issue [#363](https://github.com/erdelf/AutoDuty/issues/363) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. ❗ Opened issue [#363](https://github.com/erdelf/AutoDuty/issues/363) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4857350003) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216#issuecomment-4856788213) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🔒 Closed issue [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+4. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4856781927) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. ℹ️ Labeled issue [#363](https://github.com/erdelf/AutoDuty/issues/363) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
