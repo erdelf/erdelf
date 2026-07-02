@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.321](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.321) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4857350003) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216#issuecomment-4856788213) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-4. 🔒 Closed issue [#1216](https://github.com/ffxivcode/AutoDuty/issues/1216) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4856781927) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🔒 Closed issue [#1204](https://github.com/ffxivcode/AutoDuty/issues/1204) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+2. ❗ Opened issue [#55](https://github.com/SethCohen/github-releases-to-discord/issues/55) in [SethCohen/github-releases-to-discord](https://github.com/SethCohen/github-releases-to-discord)
+3. 🚀 Published release [0.0.0.20](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.20) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+4. 🚀 Published release [0.0.0.321](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.321) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#363](https://github.com/erdelf/AutoDuty/issues/363#issuecomment-4857350003) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
