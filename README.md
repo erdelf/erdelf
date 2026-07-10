@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4919051507) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🔒 Closed issue [#373](https://github.com/erdelf/AutoDuty/issues/373) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4916719886) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🚀 Published release [0.0.0.23](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.23) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-5. 🚀 Published release [0.0.0.324](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.324) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.24](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.24) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+2. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4919051507) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🔒 Closed issue [#373](https://github.com/erdelf/AutoDuty/issues/373) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4916719886) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🚀 Published release [0.0.0.23](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.23) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
 <!--END_SECTION:activity-->
 
 <!--
