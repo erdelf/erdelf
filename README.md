@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.25](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.25) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-2. 🚀 Published release [0.0.0.24](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.24) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-3. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4919051507) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔒 Closed issue [#373](https://github.com/erdelf/AutoDuty/issues/373) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4916719886) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 💪 Opened PR [#9](https://github.com/NightmareXIV/ECommons.IPC/pull/9) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+2. 🚀 Published release [0.0.0.25](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.25) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+3. 🚀 Published release [0.0.0.24](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.24) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+4. 🗣 Commented on [#373](https://github.com/erdelf/AutoDuty/issues/373#issuecomment-4919051507) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🔒 Closed issue [#373](https://github.com/erdelf/AutoDuty/issues/373) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
