@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#177](https://github.com/Vanilla-Expanded/VanillaExpandedFramework/issues/177#issuecomment-4987118178) in [Vanilla-Expanded/VanillaExpandedFramework](https://github.com/Vanilla-Expanded/VanillaExpandedFramework)
-2. 🚀 Published release [0.0.0.27](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.27) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-3. 🗣 Commented on [#585](https://github.com/PunishXIV/Questionable/pull/585#issuecomment-4965007532) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
-4. 🎉 Merged PR [#376](https://github.com/erdelf/AutoDuty/pull/376) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#376](https://github.com/erdelf/AutoDuty/pull/376) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.28](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.28) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+2. 🗣 Commented on [#177](https://github.com/Vanilla-Expanded/VanillaExpandedFramework/issues/177#issuecomment-4987118178) in [Vanilla-Expanded/VanillaExpandedFramework](https://github.com/Vanilla-Expanded/VanillaExpandedFramework)
+3. 🚀 Published release [0.0.0.27](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.27) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+4. 🗣 Commented on [#585](https://github.com/PunishXIV/Questionable/pull/585#issuecomment-4965007532) in [PunishXIV/Questionable](https://github.com/PunishXIV/Questionable)
+5. 🎉 Merged PR [#376](https://github.com/erdelf/AutoDuty/pull/376) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
