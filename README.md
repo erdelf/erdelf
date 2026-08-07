@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.35](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.35) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-2. 🗣 Commented on [#394](https://github.com/erdelf/AutoDuty/issues/394#issuecomment-5173892272) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#120](https://github.com/erdelf/AlienRaces/pull/120#issuecomment-5170907364) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-4. ❌ Closed PR [#120](https://github.com/erdelf/AlienRaces/pull/120) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-5. 🚀 Published release [0.0.0.330](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.330) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.36](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.36) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+2. 🚀 Published release [0.0.0.35](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.35) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+3. 🗣 Commented on [#394](https://github.com/erdelf/AutoDuty/issues/394#issuecomment-5173892272) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🗣 Commented on [#120](https://github.com/erdelf/AlienRaces/pull/120#issuecomment-5170907364) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
+5. ❌ Closed PR [#120](https://github.com/erdelf/AlienRaces/pull/120) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
 <!--END_SECTION:activity-->
 
 <!--
