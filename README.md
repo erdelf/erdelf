@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#402](https://github.com/erdelf/AutoDuty/pull/402) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#402](https://github.com/erdelf/AutoDuty/pull/402) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🚀 Published release [0.0.0.37](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.37) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-4. 🚀 Published release [0.0.0.332](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.332) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🎉 Merged PR [#401](https://github.com/erdelf/AutoDuty/pull/401) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 💪 Opened PR [#405](https://github.com/erdelf/AutoDuty/pull/405) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#404](https://github.com/erdelf/AutoDuty/pull/404) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#404](https://github.com/erdelf/AutoDuty/pull/404) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🎉 Merged PR [#402](https://github.com/erdelf/AutoDuty/pull/402) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#402](https://github.com/erdelf/AutoDuty/pull/402) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
