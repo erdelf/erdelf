@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#409](https://github.com/erdelf/AutoDuty/pull/409) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🎉 Merged PR [#408](https://github.com/erdelf/AutoDuty/pull/408) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 💪 Opened PR [#408](https://github.com/erdelf/AutoDuty/pull/408) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🚀 Published release [0.0.0.333](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.333) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 💪 Opened PR [#407](https://github.com/erdelf/AutoDuty/pull/407) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🎉 Merged PR [#9](https://github.com/NightmareXIV/ECommons.IPC/pull/9) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+2. 🎉 Merged PR [#10](https://github.com/NightmareXIV/ECommons.IPC/pull/10) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+3. 💪 Opened PR [#10](https://github.com/NightmareXIV/ECommons.IPC/pull/10) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+4. 💪 Opened PR [#409](https://github.com/erdelf/AutoDuty/pull/409) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🎉 Merged PR [#408](https://github.com/erdelf/AutoDuty/pull/408) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
