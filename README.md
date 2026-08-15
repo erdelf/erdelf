@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.0.0.38](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.38) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
-2. 🎉 Merged PR [#9](https://github.com/NightmareXIV/ECommons.IPC/pull/9) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-3. 🎉 Merged PR [#10](https://github.com/NightmareXIV/ECommons.IPC/pull/10) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-4. 💪 Opened PR [#10](https://github.com/NightmareXIV/ECommons.IPC/pull/10) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-5. 💪 Opened PR [#409](https://github.com/erdelf/AutoDuty/pull/409) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.334](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.334) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#410](https://github.com/erdelf/AutoDuty/pull/410) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#410](https://github.com/erdelf/AutoDuty/pull/410) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🚀 Published release [0.0.0.38](https://github.com/erdelf/ffxiv_FCTracker/releases/tag/0.0.0.38) in [erdelf/ffxiv_FCTracker](https://github.com/erdelf/ffxiv_FCTracker)
+5. 🎉 Merged PR [#9](https://github.com/NightmareXIV/ECommons.IPC/pull/9) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
 <!--END_SECTION:activity-->
 
 <!--
