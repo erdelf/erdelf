@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#517](https://github.com/erdelf/AutoDuty/issues/517#issuecomment-5845148802) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#99](https://github.com/erdelf/AlienRaces/pull/99#issuecomment-5844702874) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-3. ❌ Closed PR [#99](https://github.com/erdelf/AlienRaces/pull/99) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-4. 🔒 Closed issue [#124](https://github.com/erdelf/AlienRaces/issues/124) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-5. 🗣 Commented on [#124](https://github.com/erdelf/AlienRaces/issues/124#issuecomment-5844677980) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
+1. 🎉 Merged PR [#521](https://github.com/erdelf/AutoDuty/pull/521) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 💪 Opened PR [#521](https://github.com/erdelf/AutoDuty/pull/521) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🎉 Merged PR [#520](https://github.com/erdelf/AutoDuty/pull/520) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#520](https://github.com/erdelf/AutoDuty/pull/520) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#517](https://github.com/erdelf/AutoDuty/issues/517#issuecomment-5845148802) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
