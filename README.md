@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#623](https://github.com/erdelf/AutoDuty/pull/623) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#623](https://github.com/erdelf/AutoDuty/pull/623) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#622](https://github.com/erdelf/AutoDuty/issues/622#issuecomment-6582987549) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🎉 Merged PR [#14](https://github.com/NightmareXIV/ECommons.IPC/pull/14) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
-5. 💪 Opened PR [#14](https://github.com/NightmareXIV/ECommons.IPC/pull/14) in [NightmareXIV/ECommons.IPC](https://github.com/NightmareXIV/ECommons.IPC)
+1. 🎉 Merged PR [#625](https://github.com/erdelf/AutoDuty/pull/625) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#625](https://github.com/erdelf/AutoDuty/pull/625#issuecomment-6612524853) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#625](https://github.com/erdelf/AutoDuty/pull/625) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🗣 Commented on [#624](https://github.com/erdelf/AutoDuty/pull/624#issuecomment-6611959919) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#624](https://github.com/erdelf/AutoDuty/pull/624#issuecomment-6611324208) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
