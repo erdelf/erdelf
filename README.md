@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#126](https://github.com/erdelf/AlienRaces/issues/126#issuecomment-6710979837) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-2. 🔒 Closed issue [#126](https://github.com/erdelf/AlienRaces/issues/126) in [erdelf/AlienRaces](https://github.com/erdelf/AlienRaces)
-3. 🔒 Closed issue [#626](https://github.com/erdelf/AutoDuty/issues/626) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔓 Reopened issue [#626](https://github.com/erdelf/AutoDuty/issues/626) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🔒 Closed issue [#626](https://github.com/erdelf/AutoDuty/issues/626) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🗣 Commented on [#636](https://github.com/erdelf/AutoDuty/issues/636#issuecomment-6722464692) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🔒 Closed issue [#1220](https://github.com/ffxivcode/AutoDuty/issues/1220) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
+3. 🎉 Merged PR [#634](https://github.com/erdelf/AutoDuty/pull/634) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 💪 Opened PR [#634](https://github.com/erdelf/AutoDuty/pull/634) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🚀 Published release [0.0.0.398](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.398) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
