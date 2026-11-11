@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#637](https://github.com/erdelf/AutoDuty/pull/637) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 💪 Opened PR [#637](https://github.com/erdelf/AutoDuty/pull/637) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🗣 Commented on [#636](https://github.com/erdelf/AutoDuty/issues/636#issuecomment-6722464692) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔒 Closed issue [#1220](https://github.com/ffxivcode/AutoDuty/issues/1220) in [ffxivcode/AutoDuty](https://github.com/ffxivcode/AutoDuty)
-5. 🎉 Merged PR [#634](https://github.com/erdelf/AutoDuty/pull/634) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🗣 Commented on [#640](https://github.com/erdelf/AutoDuty/issues/640#issuecomment-6803065656) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#641](https://github.com/erdelf/AutoDuty/issues/641#issuecomment-6803267850) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🗣 Commented on [#640](https://github.com/erdelf/AutoDuty/issues/640#issuecomment-6802347154) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🎉 Merged PR [#637](https://github.com/erdelf/AutoDuty/pull/637) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 💪 Opened PR [#637](https://github.com/erdelf/AutoDuty/pull/637) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
