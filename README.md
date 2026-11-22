@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#652](https://github.com/erdelf/AutoDuty/pull/652#issuecomment-6956697828) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#644](https://github.com/erdelf/AutoDuty/pull/644#issuecomment-6956739219) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. ❌ Closed PR [#644](https://github.com/erdelf/AutoDuty/pull/644) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🗣 Commented on [#646](https://github.com/erdelf/AutoDuty/pull/646#issuecomment-6956715852) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. ❌ Closed PR [#646](https://github.com/erdelf/AutoDuty/pull/646) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🔒 Closed issue [#654](https://github.com/erdelf/AutoDuty/issues/654) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🗣 Commented on [#654](https://github.com/erdelf/AutoDuty/issues/654#issuecomment-7071997493) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 🔒 Closed issue [#654](https://github.com/erdelf/AutoDuty/issues/654) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🔒 Closed issue [#653](https://github.com/erdelf/AutoDuty/issues/653) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+5. 🗣 Commented on [#653](https://github.com/erdelf/AutoDuty/issues/653#issuecomment-7071961464) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
