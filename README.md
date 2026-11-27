@@ -18,11 +18,11 @@
 
 ### :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#654](https://github.com/erdelf/AutoDuty/issues/654) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-2. 🗣 Commented on [#654](https://github.com/erdelf/AutoDuty/issues/654#issuecomment-7071997493) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-3. 🔒 Closed issue [#654](https://github.com/erdelf/AutoDuty/issues/654) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-4. 🔒 Closed issue [#653](https://github.com/erdelf/AutoDuty/issues/653) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
-5. 🗣 Commented on [#653](https://github.com/erdelf/AutoDuty/issues/653#issuecomment-7071961464) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+1. 🚀 Published release [0.0.0.400](https://github.com/erdelf/AutoDuty/releases/tag/0.0.0.400) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+2. 🎉 Merged PR [#655](https://github.com/erdelf/AutoDuty/pull/655) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+3. 💪 Opened PR [#655](https://github.com/erdelf/AutoDuty/pull/655) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
+4. 🎉 Merged PR [#186](https://github.com/NightmareXIV/ECommons/pull/186) in [NightmareXIV/ECommons](https://github.com/NightmareXIV/ECommons)
+5. 🔒 Closed issue [#654](https://github.com/erdelf/AutoDuty/issues/654) in [erdelf/AutoDuty](https://github.com/erdelf/AutoDuty)
 <!--END_SECTION:activity-->
 
 <!--
